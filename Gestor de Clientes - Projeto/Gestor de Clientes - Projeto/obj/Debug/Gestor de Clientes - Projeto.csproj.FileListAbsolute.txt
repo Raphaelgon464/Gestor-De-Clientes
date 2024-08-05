@@ -1,0 +1,7 @@
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\bin\Debug\Gestor de Clientes - Projeto.exe.config
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\bin\Debug\Gestor de Clientes - Projeto.exe
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\bin\Debug\Gestor de Clientes - Projeto.pdb
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\obj\Debug\Gestor de Clientes - Projeto.csproj.AssemblyReference.cache
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\obj\Debug\Gestor de Clientes - Projeto.csproj.CoreCompileInputs.cache
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\obj\Debug\Gestor de Clientes - Projeto.exe
+C:\Users\funci\source\repos\Gestor de Clientes - Projeto\Gestor de Clientes - Projeto\obj\Debug\Gestor de Clientes - Projeto.pdb
